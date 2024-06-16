@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Tic - Tac - Toe",
+      "imageSrc": "projects/2.jpg",
+      "description": "A Tic-Tac-Toe project involves creating a simple, interactive game where two players take turns marking Xs and Os on a 3x3 grid. It serves as an excellent introduction to game development, logic implementation, and user interface design.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://nithieshnaik-tic-tac-toe.netlify.app/",
+      "source": "https://github.com/nithieshnaik/Game---Tic-Tac-Toe"
+    },
+    {
+      "title": "Sorting Visualizer",
+      "imageSrc": "projects/1.jpg",
+      "description": "A sorting visualizer project graphically demonstrates various sorting algorithms, allowing users to observe and compare their performance and behavior. It serves as an educational tool to enhance understanding of algorithm efficiency and operation through visual representation.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/nithieshnaik/Sorting-Visualizer"
+    },
+    {
+      "title": "E-Commerce Website",
+      "imageSrc": "projects/3.jpg",
+      "description": "The E-Commerce Website project involves creating an online platform for buying and selling products . This project aims to enhance user experience, streamline transactions, and support business growth in the digital marketplace.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/nithieshnaik/E-commerce-html-fruits-Bander-"
+    }
+  ]
